@@ -1,0 +1,29 @@
+@media screen and (max-width: 480px){
+    body{
+        background-color: rgb(192, 143, 192); /*Violet*/
+  }
+  @media screen and (min-width: 380px){
+    body{
+        background-color: rgb(151, 212, 182);
+  }
+
+  #nav-bar
+  {
+      display: flex;
+      flex-direction: row;
+      align-items: top;
+      width: 40px;
+          margin: 10px;
+  }
+
+  .nav-bar
+  {
+      display: flex;
+      flex-direction: row;
+      align-items: top;
+      width: 40px;
+     margin: 10px;
+  }
+  .box {
+    display: flex;
+  }
